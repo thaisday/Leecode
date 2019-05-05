@@ -14,7 +14,6 @@ If you have figured out the O(n) solution, try coding another solution using the
 翻译:
 给定一个整数数组,找出和最大的子数组,并返回该和的值
 """
-import sys
 from typing import List
 
 
